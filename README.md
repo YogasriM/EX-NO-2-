@@ -185,7 +185,7 @@ int main() {
   printf("Simulating Playfair Cipher\n");
   strcpy(key, "CRYPTOGRAPHY");
   printf("Key text: %s\n", key);
-  strcpy(str, "Adithya");
+  strcpy(str, "Yogasri");
   printf("Plain text: %s\n", str);
   encryptByPlayfairCipher(str, key);
   printf("Cipher text: %s\n", str);
@@ -198,7 +198,8 @@ int main() {
 
 
 Output:
-<img width="623" height="292" alt="image" src="https://github.com/user-attachments/assets/ee1f17a1-7416-4db1-8f93-c1da6ac5ca03" />
+<img width="514" height="345" alt="image" src="https://github.com/user-attachments/assets/628c7cab-944c-49c0-947e-b931dfa6afae" />
+
 
 Result:
 Implemention of playfare cipher is successfull.
